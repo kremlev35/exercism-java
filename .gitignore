@@ -6,6 +6,7 @@
 .gradle
 .idea
 build
+target
 
 # User-specific stuff
 .idea/**/workspace.xml
